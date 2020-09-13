@@ -1,16 +1,47 @@
-### Hi there 👋
+## Hi there 👋, I'm Christian. Nice to meet you 😁
 
-<!--
-**crrmacarse/crrmacarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently employed at XtendOps. Working as a Full Stack Developer and Dev Ops Engineer. I heavily contribute to project initialization and maintenance.
 
-Here are some ideas to get you started:
+Check out my [portfolio](https://crrmacarse.github.io/) website.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Latest Projects
+
+### Languages and Tools
+
+* Javascript
+* Typescript
+* PHP
+* C#
+* Visual Basic
+* Java
+* Python
+* Rust
+* SH/Batch
+
+### Notable Frameworks & Libraries
+
+* .NET
+* NodeJS
+* Webpack
+* Babel
+* React
+* Redux + Sagas
+* Laravel
+* Bootstrap
+* TailwindCSS
+* MaterialUI
+* Adonis
+* Jest
+* Enzyme
+* Angular
+* Vue.js
+* Apache/IIS
+
+### Get in Touch
+
+* linkedin
+* twitter
+* stackoverflow
+
+![Christian's github stats](https://github-readme-stats.vercel.app/api?username=crrmacarse&show_icons=true&count_private=true&theme=graywhite )
+ 
