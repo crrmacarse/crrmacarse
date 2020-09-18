@@ -4,17 +4,20 @@ My name is Christian Ryan R. Macarse. A Computer Science graduate who is current
 
 Check out my [portfolio](https://crrmacarse.github.io/) website.
 
-### My Latest Projects
+### My Latest Open Source Projects
+
+* [React Typing Test](https://github.com/crrmacarse/react-typing-test)
+* [Adonis 5 + React Typescript Boilerplate](https://github.com/crrmacarse/adonis-5-react-boilerplate)
+* [React Typescript + Webpack Optimized Boilerplate](https://github.com/crrmacarse/crrmacarse.github.io)
 
 ### Languages
 
 <p align="left">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
