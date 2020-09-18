@@ -19,11 +19,10 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
+<!--
 * Visual Basic
 * SH/Batch
-* MSSQL
-* MYSQL/MariaDB
-* Firebase
+-->
 
 ### Notable Frameworks & Libraries
 
@@ -42,6 +41,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 </p>
 
+<!--
 * .NET
 * Babel
 * Redux Sagas
@@ -49,6 +49,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 * Adonis
 * Jest
 * Enzyme
+-->
 
 ### Dev Ops
 
@@ -75,8 +76,10 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 </a>
 </p>
 
+<!--
 * [Stack Overflow](https://stackoverflow.com/users/10030210/crrmacarse?tab=profile)
 * [Upwork](https://www.upwork.com/freelancers/~0101c083bd752f8e51)
+-->
 
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=crrmacarse&show_icons=true&count_private=true&theme=graywhite )
  
