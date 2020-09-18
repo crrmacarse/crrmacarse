@@ -6,7 +6,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 
 ### My Latest Projects
 
-### Languages and Tools
+### Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -51,7 +51,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 * Enzyme
 -->
 
-### Dev Ops
+### Dev Ops Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
