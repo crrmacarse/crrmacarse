@@ -10,7 +10,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 * [Adonis 5 + React Typescript Boilerplate](https://github.com/crrmacarse/adonis-5-react-boilerplate)
 * [React Typescript + Webpack Optimized Boilerplate](https://github.com/crrmacarse/crrmacarse.github.io)
 
-### Languages
+### Preferred Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -54,7 +54,7 @@ Check out my [portfolio](https://crrmacarse.github.io/) website.
 * Enzyme
 -->
 
-### Dev Ops Tools
+### Usual Dev Ops Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
