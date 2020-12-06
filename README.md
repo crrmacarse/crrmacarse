@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Christian. Nice to meet you 😁
 
-My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently employed at XtendOps Philippines. Working as a Full Stack Developer and Dev Ops Engineer. I heavily contribute to project initialization, maintenance, and documentations.
+My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently employed at XtendOps Philippines. Working as a Full Stack Developer and Dev Ops. I heavily contribute to project initialization, maintenance, blog, and documentation. I wrote mainly all the automations and setup the company infrastructure.
 
 Check out my [portfolio](https://crrmacarse.github.io/) website or visit my [personal server](http://139.59.100.139/)(139.59.100.139).
 
