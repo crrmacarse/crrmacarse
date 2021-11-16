@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Christian. Nice to meet you 😁
 
-My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently working as a Senior Full Stack Developer at Cogitate.
+My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently working as a Senior Software Engineer at Cogitate.
 
-Check out my [portfolio](https://crrmacarse.github.io/) website or visit my [personal server](http://139.59.100.139/)(139.59.100.139).
+Interested to know more? check out my [portfolio](https://crrmacarse.github.io/) website!
 
 ### My Latest Open Source Projects
 
@@ -72,25 +72,8 @@ Check out my [portfolio](https://crrmacarse.github.io/) website or visit my [per
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Get in Touch
-
-<p>
-<a href="https://twitter.com/crrmacarse">
-<img src="https://img.shields.io/badge/crrmacarse%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/christian-ryan-r-macarse-692974166/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com/users/10030210/crrmacarse?tab=profile">
-<img src="https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-logo.svg?v=a010291124bf" width="110px" />
-</a>
-</p>
-
-<!--
-* [Stack Overflow](https://stackoverflow.com/users/10030210/crrmacarse?tab=profile)
-* [Upwork](https://www.upwork.com/freelancers/~0101c083bd752f8e51)
--->
-
 ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=crrmacarse&show_icons=true&count_private=true&theme=graywhite)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crrmacarse&layout=compact&theme=graywhite&langs_count=10&card_width=500&hide=css,html)
+
+##### Get in touch with me via: [Twitter](https://twitter.com/crrmacarse) / [LinkedIn](https://www.linkedin.com/in/christian-ryan-r-macarse-692974166/) / crrmacarse@gmail.com
