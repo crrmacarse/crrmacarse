@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Christian. Nice to meet you 😁
 
-My name is Christian Ryan R. Macarse. A Computer Science graduate who is currently working as a Senior Software Engineer at Cogitate.
+My name is Christian Ryan R. Macarse. A Computer Science graduate and a proud resident of Iloilo in the Philippines.
 
 Interested to know more? check out my [portfolio](https://crrmacarse.github.io/) website!
 
