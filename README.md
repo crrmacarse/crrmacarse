@@ -72,7 +72,7 @@ Interested to know more? check out my [portfolio](https://crrmacarse.github.io/)
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-![Christian's github stats](https://github-readme-stats.vercel.app/api?username=crrmacarse&show_icons=true&count_private=true&theme=graywhite)
+![Christian's github stats](https://github-readme-stats-crrmacarses-projects.vercel.app/api?username=crrmacarse&show_icons=true&count_private=true&theme=graywhite)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crrmacarse&layout=compact&theme=graywhite&langs_count=10&card_width=500&hide=css,html)
 
